@@ -23,7 +23,9 @@ Ce projet a pour but de fournir des **instructions détaillées** pour migrer ve
 
 1. [📱 Migration de WhatsApp à Signal](src/messaging/whatsapp-to-signal.md)
 2. [🐦 Migration de X à Bluesky](src/social-media/x-to-bluesky.md)
-3. [🎵 Migration de Spotify à Tidal](src/music/spotify-to-tidal.md)
+3. [🎵 Quitter Spotify](src/music/quitter-spotify.md)
+   - [🎵 Migration de Spotify à Qobuz 🇫🇷](src/music/spotify-to-qobuz.md)
+    - [🎵 Migration de Spotify à Tidal](src/music/spotify-to-tidal.md)
 4. 📸 Migration d'Instagram à Pixelfed - *Bientot*
 5. 👥 Alternatives à Facebook - *Bientot*
 6. 📧 Migration de Gmail/GDrive à Proton - *Bientot*
