@@ -2,7 +2,13 @@
 
 ## Pourquoi WhatsApp, ça pue?
 
-Les conditions d'utilisation de WhatsApp et Messenger révèlent une **emprise systémique** sur les données utilisateurs au profit de l'écosystème Meta, tout en créant des vulnérabilités sécuritaires majeures. Les mises à jour imposées en 2024 ([^1][^3]) conditionnent l'accès aux services à l'acceptation d'un **partage étendu des métadonnées** (contacts, localisation, habitudes de communication) avec Meta, malgré le chiffrement de bout en bout des messages[^5]. Ce mécanisme permet à la multinationale de contourner les limitations du RGDP en exploitant les données pour le ciblage publicitaire et l'entraînement de ses modèles d'IA[^1][^9]. L'intégration forcée avec l'API WhatsApp Business ([^1][^6]) expose surtout les utilisateurs particuliers à des **interactions commerciales non sollicitées**, leurs données servant de pont entre entreprises et Meta sans consentement spécifique[^5][^9]. Pire, la conformité au Digital Markets Act ([^3]) a introduit des **failles sécuritaires structurelles** : les messages transitant via des plateformes tierces ne bénéficient plus du chiffrement, transformant chaque discussion en vecteur potentiel de fuites[^3][^11]. Les clauses unilatérales ([^9][^11]) accordent à Meta un droit de **modification rétroactive des conditions** et une licence perpétuelle sur le contenu partagé, y compris via les Chaînes WhatsApp[^9]. Les utilisateurs refusant ces termes se voient purement **exclus du service** ([^3][^5]), une pratique anticoncurrentielle dénoncée par les régulateurs indiens et européens[^1][^3]. Ces conditions créent ainsi un **chantage numérique** : renoncement à la vie privée ou exclusion des réseaux sociaux essentiels.
+<img src="../images/icons/whatsapp.png" width="100"/>
+
+Les conditions d'utilisation de WhatsApp et Messenger révèlent une **emprise systémique** sur les données utilisateurs au profit de l'écosystème Meta, tout en créant des vulnérabilités sécuritaires majeures. Les mises à jour imposées en 2024 conditionnent l'accès aux services à l'acceptation d'un **partage étendu des métadonnées** (contacts, localisation, habitudes de communication) avec Meta, malgré le chiffrement de bout en bout des messages. Ce mécanisme permet à la multinationale de contourner les limitations du RGDP en exploitant les données pour le ciblage publicitaire et l'entraînement de ses modèles d'IA. L'intégration forcée avec l'API WhatsApp Business expose surtout les utilisateurs particuliers à des **interactions commerciales non sollicitées**, leurs données servant de pont entre entreprises et Meta sans consentement spécifique. 
+
+Pire, la conformité au Digital Markets Act  a introduit des **failles sécuritaires structurelles** : les messages transitant via des plateformes tierces ne bénéficient plus du chiffrement, transformant chaque discussion en vecteur potentiel de fuites. Les clauses unilatérales accordent à Meta un droit de **modification rétroactive des conditions** et une licence perpétuelle sur le contenu partagé, y compris via les Chaînes WhatsApp. 
+
+Les utilisateurs refusant ces termes se voient purement **exclus du service**, une pratique anticoncurrentielle dénoncée par les régulateurs. Ces conditions créent ainsi un **chantage numérique** : renoncement à la vie privée ou exclusion des réseaux sociaux essentiels.
 
 ## Pourquoi Signal, c'est mieux?
 
@@ -14,6 +20,8 @@ Techniquement supérieure en termes de performances (latence, qualité vidéo, s
 - 83% des ONG de protection des droits humains
 
 ## On y va?
+
+<img src="../images/icons/signal.png" width="100"/>
 
 En fait, on peut pas vraiment migrer, il faut installer l'application Signal et sauvegarder ses conversations importantes WhatsApp.
 
@@ -30,6 +38,11 @@ Que vous migriez ou non, vous pouvez activer les sauvegardes sur What's App et S
 ## 1. Installation
 
 - **Téléchargez Signal** : Assurez-vous d'avoir installé l'application Signal sur votre appareil mobile. Vous pouvez la trouver sur le [Google Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) ou l'[App Store d'Apple](https://apps.apple.com/us/app/signal-private-messenger/id874139669).
+
+**Remarques importantes :** 
+- Les tablettes Android ne sont pas compatibles avec Signal.
+- Les iPad sont pris en charge en tant qu'appareils distincts. [Plus d'informations ici](https://support.signal.org/hc/fr/articles/360008216551-Installer-Signal).
+- Vous pouvez installer Signal Desktop sur votre ordinateur uniquement après avoir configuré l'application sur votre téléphone.
 
 ## 2. Comment inscrire son numero sur Signal?
 
@@ -77,39 +90,3 @@ Suivez les instructions à l’écran pour terminer le processus d’inscription
 - Des outils tiers comme MobileTrans permettent d'exporter facilement vers PDF
 
 N'oubliez pas que l'export ne remplace pas une sauvegarde complète. Pensez à sauvegarder régulièrement l'ensemble de vos données WhatsApp.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://www.callbell.eu/fr/nouvelles-conditions-utilisation-de-whatsapp/
-
-[^2]: https://activitymessenger.com/fr/terms/
-
-[^3]: https://www.presse-citron.net/whatsapp-changent-ses-conditions-dutilisation-et-vous-allez-devoir-les-accepter/
-
-[^4]: https://developers.facebook.com/docs/messenger-platform/policy?locale=fr_FR
-
-[^5]: https://www.whatsapp.com/legal/messaging-guidelines?lang=fr
-
-[^6]: https://help.activecampaign.com/hc/fr-fr/articles/360017376379-Connecter-Facebook-Messenger-%C3%A0-votre-compte-Conversations
-
-[^7]: https://www.whatsapp.com/coronavirus/get-started?lang=fr
-
-[^8]: https://play.google.com/store/apps/details?id=com.facebook.orca\&hl=fr_CA
-
-[^9]: https://www.whatsapp.com/legal/channels-terms-of-service-eea?lang=fr
-
-[^10]: https://play.google.com/store/apps/details/Messenger?id=com.facebook.orca\&hl=fr_CH
-
-[^11]: https://www.whatsapp.com/legal/channels-terms-of-service?lang=fr
-
-[^12]: https://sproutsocial.com/fr/glossary/facebook-messenger/
-
-[^13]: https://faq.whatsapp.com/?locale=fr_fr
-
-[^14]: https://faq.whatsapp.com/general/security-and-privacy/were-updating-our-terms-and-privacy-policy/?lang=fr
-
-[^15]: https://www.enviedeplus.com/famille/activites/comment-fonctionne-whatsapp
-
-[^16]: https://www.meta.com/fr-ca/help/quest/542133696775479/
-
-[^17]: https://activitymessenger.com/org/2644/terms

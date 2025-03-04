@@ -38,9 +38,9 @@ Pour commencer, vous devez exporter vos playlists/artistes/albums de Spotify. Vo
 Voici comment faire :
 
 - Connectez-vous à votre compte Spotify et Tidal sur Soundiiz.
-  ![](../images/spotify-playlist-export.png)
+<img src="../images/spotify-playlist-export.png" width="300"/>
 - Allez dans Artistes/Playlist ou Albums, sélectionnez-les tous puis cliquez sur Transférer :
-  ![](../images/soundizz-tranfer.png)
+<img src="../images/soundizz-tranfer.png" width="300"/>
 
 Documentation officielle : [documentation](https://soundiiz.com/fr/tutorial/spotify-to-tidal)
 

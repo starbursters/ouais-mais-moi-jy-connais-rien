@@ -24,14 +24,22 @@ Ce projet a pour but de fournir des **instructions détaillées** pour migrer ve
 1. [📱 Migration de WhatsApp à Signal](src/messaging/whatsapp-to-signal.md)
 2. [🐦 Migration de X à Bluesky](src/social-media/x-to-bluesky.md)
 3. [🎵 Quitter Spotify](src/music/quitter-spotify.md)
-   - [🎵 Migration de Spotify à Qobuz 🇫🇷](src/music/spotify-to-qobuz.md)
+    - [🎵 Migration de Spotify à Qobuz 🇫🇷](src/music/spotify-to-qobuz.md)
     - [🎵 Migration de Spotify à Tidal](src/music/spotify-to-tidal.md)
 4. 📸 Migration d'Instagram à Pixelfed - *Bientot*
 5. 👥 Alternatives à Facebook - *Bientot*
 6. 📧 Migration de Gmail/GDrive à Proton - *Bientot*
+7. 🤖 Intelligence artificielle - Que choisir - *Bientot*
+7. 🏄‍♂️ Navigateur web - *Bientot*
 
 ## ❓ Comment utiliser ce guide
 
 Chaque section contient des **instructions détaillées**, des **conseils** et des informations sur les **problèmes potentiels** que vous pourriez rencontrer lors de la migration. Suivez les liens pour accéder aux guides spécifiques.
 
 Nous espérons que ce guide vous aidera à effectuer une **transition en douceur** vers des plateformes qui respectent davantage votre vie privée et vos données. 🛡️
+
+## Si vous avez 5$ à offrir, donnez!
+
+- [Signal](https://signal.org/donate/)
+- [Wikipedia](https://donate.wikimedia.org/)
+- [Firefox - Mozilla foundation](https://foundation.mozilla.org/en/donate/)
