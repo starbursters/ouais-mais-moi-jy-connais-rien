@@ -27,7 +27,8 @@ Ce projet a pour but de fournir des **instructions détaillées** pour migrer ve
     - [🎵 Migration de Spotify à Qobuz 🇫🇷](src/music/spotify-to-qobuz.md)
     - [🎵 Migration de Spotify à Tidal](src/music/spotify-to-tidal.md)
 4. 📸 Migration d'Instagram à Pixelfed - *Bientot*
-5. 👥 Alternatives à Facebook - *Bientot*
+5. 👥 Alternatives à Facebook 🤮
+    - [Quitter Facebook](src/social-media/facebook.md)
 6. 📧 Migration de Gmail/GDrive à Proton - *Bientot*
 7. 🤖 Intelligence artificielle - Que choisir - *Bientot*
 7. 🏄‍♂️ Navigateur web - *Bientot*
